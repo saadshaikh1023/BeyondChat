@@ -4,6 +4,7 @@ import { Poppins } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/react'
 import React from 'react'; // Import React
 
+
 const poppins = Poppins({ 
   weight: ['300', '400', '500', '600', '700'],
   subsets: ['latin'],
